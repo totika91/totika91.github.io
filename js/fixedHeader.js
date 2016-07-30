@@ -1,0 +1,1 @@
+$(document).ready(function(){$(window).on("scroll",function(){$(window).scrollTop()>0?($("header").addClass("fixedHeader"),$("header .avatar img").css({width:45,height:45})):($("header").removeClass("fixedHeader"),$("header .avatar img").css({width:65,height:65}))})});

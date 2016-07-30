@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".about").click(function(){$(".wrapMain").animate({scrollTop:0},300)}),$(".education").click(function(){$(".wrapMain").animate({scrollTop:568},300)}),$(".skills").click(function(){$(".wrapMain").animate({scrollTop:1130},300)}),$(".exp").click(function(){$(".wrapMain").animate({scrollTop:1695},300)})});
